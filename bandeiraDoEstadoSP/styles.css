@@ -1,0 +1,61 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   width: 100vw;
+   height: 100vh;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   background-color: aliceblue;
+   padding: 0 5px;
+
+   overflow: hidden;
+}
+
+.bandeira{
+   width: 400px;
+   height: fit-content;
+   border: 1px solid black;
+}
+
+.map{
+   background-color: white;
+   border-radius: 50%;
+   display: flex;
+   padding: 5px;
+
+}
+.icons{
+   height: 70px;
+  
+   background-color: red;
+   float: left;
+   display: flex;
+   
+   padding: 3px 2px;
+
+}
+
+.icons .star{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.strip-black{
+   height: 14px;
+   width: 100%;
+
+   background-color: black;
+}
+.strip-white{
+   height: 14px;
+   width: 100%;
+   background-color: white;
+}
