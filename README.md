@@ -12,4 +12,8 @@
   
  <img src='./bandeiraDoEstadoSP/img/projeto.png' width = '150px'>
 
+- [Clica aqui para ver o projeto](https://github.com/romulomax47/projetos_html_css/tree/main/bandeiraDoEstadoSP/idex.html)
 </div>
+
+
+Se você curtiu 👍 fortalece o repositório deixa uma estrelinha. 
