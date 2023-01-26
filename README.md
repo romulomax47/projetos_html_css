@@ -1,4 +1,4 @@
-# Esse repositório tem o objetivo de alogar projetos basicos feitos em HTML E CSS.
+# Esse repositório tem o objetivo de alocar projetos basicos feitos em HTML E CSS.
 
 ## Tutoriais
 - [APRENDA HTML](https://www.w3schools.com/html/default.asp)
