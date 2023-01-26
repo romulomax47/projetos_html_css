@@ -1,4 +1,4 @@
-# Esse repositório tem o objetivo de alocar projetos basicos feitos em HTML E CSS.
+# Esse repositório tem o objetivo de alocar projetos básicos feitos em HTML E CSS.
 
 ## Tutoriais
 - [APRENDA HTML](https://www.w3schools.com/html/default.asp)
@@ -24,11 +24,13 @@
 - 5° Faça o push e o pull request.
 <br><br>
 
-OBS: O ***README.MD*** dever ter uma imagem do projeto e um link : ***https://romulomax47.github.io/projetos_html_css/ diretorio do seu projeto***
+OBS: O ***README.MD*** deve ter uma imagem do projeto e um link : ***https://romulomax47.github.io/projetos_html_css/diretorio_do_seu_projeto***
+
+###  Dúvidas e sugestões ***Issues*** 
 
 Se você curtiu 👍 fortalece o repositório deixa uma estrelinha. 
 
 <div style='text-align: center;'>
   <h1>Open Source</h1>
-  <sub>Copyright © 2022 - <a href="https://github.com/romulomax47">iuricode</sub></a>
+  <sub>Copyright © 2022 - <a href="https://github.com/romulomax47">Rômulo</sub></a>
 </div>
